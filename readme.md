@@ -14,7 +14,7 @@ let elemeentId = document.getElementById('elementId);
 2. Declare an array of wordlist <br>
 let wordList = '["a software Developer", "a web Designer", "a course Instructor"]';
 
-3.Initialize typerjs with the initialize method taking two parameters, elementId and wordlist
+3. Initialize typerjs
 <br>
 initialize(elementId, wordList);
 
