@@ -10,3 +10,5 @@ let wordList = '["a software Developer...", "a web Designer...", "a course Instr
 //Element id and wordList
 initialize('textElement', wordList);
 
+<a href="https://africana1.github.io/typerjs/" target="_blank">Demo</a>
+
