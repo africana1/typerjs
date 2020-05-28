@@ -4,20 +4,20 @@
   "description": "A simple JavaScript Typewriter effect library",
   "main": "main.js",
   "scripts": {
-    "desploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/africana1/Typewriter-Effect.git"
+    "url": "git+https://github.com/africana1/typerjs.git"
   },
   "keywords": [
     "Typewriter"
   ],
   "author": "africana",
   "license": "MIT",
-  "homepage": "https://github.com/africana1/Typewriter-Effect#readme",
+  "homepage": "https://africana1.github.io/typerjs",
   "bugs": {
-    "url": "https://github.com/africana1/Typewriter-Effect/issues"
+    "url": "https://github.com/africana1/typerjs/issues"
   },
   "dependencies": {
     "gh-pages": "^2.2.0"
