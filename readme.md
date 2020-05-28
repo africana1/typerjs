@@ -8,13 +8,14 @@ typewriter.js == ES6 Implementation
 
 How to use
 
-1. Declare an array of wordlist <br>
-let wordList = '["a software Developer", "a web Designer", "a course Instructor"]';
-
-2. Get id of the element to be used <br>
+1. Get id of the element to be used <br>
 let elemeentId = document.getElementById('elementId);
 
-3.Initialize typerjs <br>
+2. Declare an array of wordlist <br>
+let wordList = '["a software Developer", "a web Designer", "a course Instructor"]';
+
+3.Initialize typerjs with the initialize method taking two parameters, elementId and wordlist
+<br>
 initialize(elementId, wordList);
 
 
