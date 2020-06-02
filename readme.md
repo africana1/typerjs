@@ -21,3 +21,4 @@ initialize(elementId, wordList);
 
 <a href="https://africana1.github.io/typerjs/" target="_blank">Demo page</a>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a449eeb7-837b-41ba-9978-c32375569b02/deploy-status)](https://app.netlify.com/sites/ngstates/deploys)
